@@ -1,0 +1,8 @@
+
+docker build -t repair-bot .
+
+
+docker run -d repair-bot
+
+Токен 
+6643113653:AAF0O9s6urEjo7uRF30SwNuBYBIwiI9D-0c
